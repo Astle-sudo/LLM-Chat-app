@@ -39,7 +39,7 @@
 
 
 <form method="POST" on:submit={Submit} use:enhance>
-    <input bind:this={input} type="text" name="prompt" autocomplete="off" disable>
+    <input bind:this={input} type="text" name="prompt" autocomplete="off" disabled placeholder="Server Disconnected">
 </form>
 
 <style>
