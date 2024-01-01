@@ -1,5 +1,5 @@
 # Demo Chat App using LM studio
-This chat app contains the simple usage of LM studio's local server service, where we can download any LLM of our choice and use initiate a local server to generate responses.
+This chat app contains the simple usage of LM studio's local server service, where we can download any LLM of our choice and initiate a local server to generate responses.
 I have tried using the server with Mixtral-7b and Phi-2. The responses were quite different, as expected, while the response time was reasonable.
 
 ## Mistral-7B
