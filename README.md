@@ -12,7 +12,7 @@ Phi-2 is a 2.7 billion parameter Transformer model, an extension of Phi-1.5, wit
 
 <img width="825" alt="Screenshot 1945-10-12 at 12 42 54 AM" src="https://github.com/Astle-sudo/LLM-Chat-app/assets/67687557/19dc48dc-28ec-42ed-a18f-da3143e7f900">
 <img width="756" alt="Screenshot 1945-10-12 at 12 43 29 AM" src="https://github.com/Astle-sudo/LLM-Chat-app/assets/67687557/243c4807-23c3-4c9d-8bc3-95ff08c51481">
-<br>
+<br><br><br>
 
 Few points to note:
 - The models were not fine-tuned
