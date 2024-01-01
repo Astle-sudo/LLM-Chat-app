@@ -31,7 +31,7 @@
 </script>
 
 <h1>
-    Mistral-7b
+    Mistral-7b / Phi 2
 </h1>
 
 
@@ -39,7 +39,7 @@
 
 
 <form method="POST" on:submit={Submit} use:enhance>
-    <input bind:this={input} type="text" name="prompt" autocomplete="off">
+    <input bind:this={input} type="text" name="prompt" autocomplete="off" disable>
 </form>
 
 <style>
