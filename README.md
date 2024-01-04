@@ -16,5 +16,5 @@ Phi-2 is a 2.7 billion parameter Transformer model, an extension of Phi-1.5, wit
 
 Few points to note:
 - The models were not fine-tuned
-- The original context length was much higher than 50 words, but I had to limit it for faster responses (and also because it was generating thousands of words for very simple prompts)
+- The original response length is much higher than 50 words, but I had to limit it for faster responses (and also because it was generating thousands of words for very simple prompts)
 - The file uploaded here cannot access the LLM model, as the LM studio server was local (I have not hosted it publically yet)
